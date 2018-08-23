@@ -1,0 +1,12 @@
+/***** Mobile Phones and small formats *****/
+
+/***** Tablets and medium formats *****/
+
+@media screen and (min-width: 748px) and (max-width: 1024px) {
+
+  .container {
+      padding: 25% 10%;
+      max-height: 100vmax;
+      max-width: 100%;
+  }
+}
